@@ -1,0 +1,1 @@
+02b986b83604270138b4aedbe1bc008d7b639ceb3a8168c723cef30abe406cff  kartel_staking.wasm
